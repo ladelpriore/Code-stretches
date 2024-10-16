@@ -1,10 +1,10 @@
 const bunny = {
-    name: floofer
+    name: floofer,
     speed: 25
 };
 
 bunny.speed = 28;
-bunny.appearance = isCute;
+bunny.isCute = true;
 
 console.log(bunny);
 
